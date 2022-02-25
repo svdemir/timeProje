@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimingResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <currentTable>
+    <tableColumns>
+      <TableColumn>
+        <order>1</order>
+        <name>order</name>
+        <title>#</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>2</order>
+        <name>no</name>
+        <title>NO</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>3</order>
+        <name>pilotName</name>
+        <title>RIDER</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>4</order>
+        <name>pilotCountryFlagPath</name>
+        <title>NAT</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>5</order>
+        <name>lap</name>
+        <title>LAP</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>6</order>
+        <name>bestLap</name>
+        <title>BEST</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>7</order>
+        <name>lastLap</name>
+        <title>LAST</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>8</order>
+        <name>curentLap</name>
+        <title>CURR</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>9</order>
+        <name>difference</name>
+        <title>DIFF</title>
+        <type></type>
+      </TableColumn>
+      <TableColumn>
+        <order>10</order>
+        <name>gap</name>
+        <title>GAP</title>
+        <type></type>
+      </TableColumn>
+	   <TableColumn>
+        <order>11</order>
+        <name>moto1</name>
+        <title>MOTO 1</title>
+        <type />
+      </TableColumn>
+	  <TableColumn>
+        <order>12</order>
+        <name>moto2</name>
+        <title>MOTO 2</title>
+        <type />
+      </TableColumn>
+	  <TableColumn>
+        <order>13</order>
+        <name>moto3</name>
+        <title>MOTO 3</title>
+        <type />
+      </TableColumn>
+	  <TableColumn>
+        <order>14</order>
+        <name>total</name>
+        <title>TOTAL</title>
+        <type />
+      </TableColumn>
+      <TableColumn>
+        <order>15</order>
+        <name>startingGridPos</name>
+        <title>SG</title>
+        <type></type>
+      </TableColumn>
+    </tableColumns>
+    <numberOfLines>9</numberOfLines>
+  </currentTable>
+  <currentRace>
+    <headerVisible>true</headerVisible>
+    <raceName>UIM-ABP GP of ITALY</raceName>
+    <raceType>AquaBike</raceType>
+    <subType>SKI LADIES GP1</subType>
+    <sessionType>Moto 1</sessionType>
+    <raceStatusFlagVisible>true</raceStatusFlagVisible>
+    <raceStatusFlagPath>flag_red.png</raceStatusFlagPath>
+    <weatherIconPath>weather_cloudy_open.png</weatherIconPath>
+    <tempValue>25°C</tempValue>
+    <lapVisible>true</lapVisible>
+    <lapTitle>LAP</lapTitle>
+    <lapValue>0/7</lapValue>
+    <timeVisible>true</timeVisible>
+    <timeTitle>Remaining Time</timeTitle>
+    <timeValue>09:45</timeValue>
+  </currentRace>
+  <raceResults>
+   <ResultLine>
+		<order>1</order>
+		<no>37</no>
+		<pilotName>Aretha Patterson</pilotName>
+		<pilotCountryFlagPath>us</pilotCountryFlagPath>
+		<lap>5</lap>
+		<isBestLap>active</isBestLap>
+		<bestLap>6:16:40</bestLap>
+		<lastLap>3:31:22 </lastLap>
+		<curentLap>9:54:41 </curentLap>
+		<difference>71</difference>
+		<gap>9</gap>
+		<isCloseGap>active</isCloseGap>
+		<moto1>5:48:57 </moto1>
+		<moto2>11:00:30 </moto2>
+		<moto3>3:45:01 </moto3>
+		<total>4:30:30 </total>
+		<startingGridPos>5</startingGridPos>
+		<startingGridPosIcon>sg_up</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>2</order>
+		<no>13</no>
+		<pilotName>Mari Gillespie</pilotName>
+		<pilotCountryFlagPath>tr</pilotCountryFlagPath>
+		<lap>5</lap>
+		<isBestLap>active</isBestLap>
+		<bestLap>6:52:04</bestLap>
+		<lastLap>6:04:46 </lastLap>
+		<curentLap>8:01:02 </curentLap>
+		<difference>46</difference>
+		<gap>4</gap>
+		<isCloseGap>active</isCloseGap>
+		<moto1>5:25:24 </moto1>
+		<moto2>5:34:11 </moto2>
+		<moto3>1:26:49 </moto3>
+		<total>4:03:11 </total>
+		<startingGridPos>2</startingGridPos>
+		<startingGridPosIcon>sg_down</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>3</order>
+		<no>83</no>
+		<pilotName>Chase Hines</pilotName>
+		<pilotCountryFlagPath>tr</pilotCountryFlagPath>
+		<lap>7</lap>
+		<isBestLap>active</isBestLap>
+		<bestLap>11:26:35</bestLap>
+		<lastLap>11:28:15 </lastLap>
+		<curentLap>7:40:41 </curentLap>
+		<difference>50</difference>
+		<gap>10</gap>
+		<isCloseGap></isCloseGap>
+		<moto1>7:24:05 </moto1>
+		<moto2>12:26:27 </moto2>
+		<moto3>6:26:37 </moto3>
+		<total>2:38:00 </total>
+		<startingGridPos>3</startingGridPos>
+		<startingGridPosIcon>sg_up</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>4</order>
+		<no>30</no>
+		<pilotName>Xaviera Maldonado</pilotName>
+		<pilotCountryFlagPath>it</pilotCountryFlagPath>
+		<lap>4</lap>
+		<isBestLap></isBestLap>
+		<bestLap>11:36:28</bestLap>
+		<lastLap>7:49:17 </lastLap>
+		<curentLap>6:10:53 </curentLap>
+		<difference>43</difference>
+		<gap>5</gap>
+		<isCloseGap></isCloseGap>
+		<moto1>4:05:45 </moto1>
+		<moto2>4:37:41 </moto2>
+		<moto3>2:01:42 </moto3>
+		<total>11:14:35 </total>
+		<startingGridPos>3</startingGridPos>
+		<startingGridPosIcon>sg_up</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>5</order>
+		<no>41</no>
+		<pilotName>Daria O'brien</pilotName>
+		<pilotCountryFlagPath>nz</pilotCountryFlagPath>
+		<lap>4</lap>
+		<isBestLap></isBestLap>
+		<bestLap>12:19:11</bestLap>
+		<lastLap>6:14:35 </lastLap>
+		<curentLap>8:36:11 </curentLap>
+		<difference>18</difference>
+		<gap>7</gap>
+		<isCloseGap></isCloseGap>
+		<moto1>10:51:37 </moto1>
+		<moto2>6:12:11 </moto2>
+		<moto3>10:37:08 </moto3>
+		<total>5:08:43 </total>
+		<startingGridPos>4</startingGridPos>
+		<startingGridPosIcon>sg_down</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>6</order>
+		<no>88</no>
+		<pilotName>Blake Melton</pilotName>
+		<pilotCountryFlagPath>tr</pilotCountryFlagPath>
+		<lap>6</lap>
+		<isBestLap>active</isBestLap>
+		<bestLap>10:07:17</bestLap>
+		<lastLap>8:19:38 </lastLap>
+		<curentLap>7:56:07 </curentLap>
+		<difference>42</difference>
+		<gap>8</gap>
+		<isCloseGap>active</isCloseGap>
+		<moto1>2:24:18 </moto1>
+		<moto2>5:26:38 </moto2>
+		<moto3>9:28:44 </moto3>
+		<total>9:21:49 </total>
+		<startingGridPos>5</startingGridPos>
+		<startingGridPosIcon>sg_down</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>7</order>
+		<no>54</no>
+		<pilotName>Colt Drake</pilotName>
+		<pilotCountryFlagPath>nz</pilotCountryFlagPath>
+		<lap>1</lap>
+		<isBestLap></isBestLap>
+		<bestLap>6:03:39</bestLap>
+		<lastLap>7:52:20 </lastLap>
+		<curentLap>5:00:28 </curentLap>
+		<difference>18</difference>
+		<gap>8</gap>
+		<isCloseGap>active</isCloseGap>
+		<moto1>8:17:51 </moto1>
+		<moto2>12:54:59 </moto2>
+		<moto3>10:57:51 </moto3>
+		<total>1:31:13 </total>
+		<startingGridPos>4</startingGridPos>
+		<startingGridPosIcon>sg_down</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>8</order>
+		<no>31</no>
+		<pilotName>Leroy Weaver</pilotName>
+		<pilotCountryFlagPath>it</pilotCountryFlagPath>
+		<lap>4</lap>
+		<isBestLap>active</isBestLap>
+		<bestLap>12:08:44</bestLap>
+		<lastLap>4:07:51 </lastLap>
+		<curentLap>2:05:31 </curentLap>
+		<difference>35</difference>
+		<gap>8</gap>
+		<isCloseGap>active</isCloseGap>
+		<moto1>12:08:41 </moto1>
+		<moto2>2:56:56 </moto2>
+		<moto3>10:51:37 </moto3>
+		<total>7:23:07 </total>
+		<startingGridPos>3</startingGridPos>
+		<startingGridPosIcon>sg_up</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>9</order>
+		<no>69</no>
+		<pilotName>Camille Mcclain</pilotName>
+		<pilotCountryFlagPath>tr</pilotCountryFlagPath>
+		<lap>1</lap>
+		<isBestLap>active</isBestLap>
+		<bestLap>7:37:41</bestLap>
+		<lastLap>4:06:32 </lastLap>
+		<curentLap>11:40:15 </curentLap>
+		<difference>52</difference>
+		<gap>3</gap>
+		<isCloseGap></isCloseGap>
+		<moto1>8:48:05 </moto1>
+		<moto2>2:09:53 </moto2>
+		<moto3>11:02:02 </moto3>
+		<total>9:52:44 </total>
+		<startingGridPos>2</startingGridPos>
+		<startingGridPosIcon>sg_def</startingGridPosIcon>
+	</ResultLine>
+	<ResultLine>
+		<order>10</order>
+		<no>82</no>
+		<pilotName>Darryl Roth</pilotName>
+		<pilotCountryFlagPath>us</pilotCountryFlagPath>
+		<lap>9</lap>
+		<isBestLap></isBestLap>
+		<bestLap>10:23:32</bestLap>
+		<lastLap>4:55:33 </lastLap>
+		<curentLap>3:26:12 </curentLap>
+		<difference>72</difference>
+		<gap>6</gap>
+		<isCloseGap>active</isCloseGap>
+		<moto1>5:06:03 </moto1>
+		<moto2>2:22:55 </moto2>
+		<moto3>2:32:51 </moto3>
+		<total>6:07:50 </total>
+		<startingGridPos>2</startingGridPos>
+		<startingGridPosIcon>sg_up</startingGridPosIcon>
+	</ResultLine>
+  </raceResults>
+</TimingResult>
